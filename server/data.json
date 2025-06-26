@@ -1,0 +1,50 @@
+[
+  {
+    "location": "Bachupally",
+    "sites": [
+      { "name": "FTO-2", "data": "" },
+      { "name": "FTO-3", "data": "" },
+      { "name": "Biologics", "data": "" },
+      { "name": "IPDO", "data": "" }
+    ]
+  },
+  {
+    "location": "Bollaram",
+    "sites": [
+      { "name": "FTO-1", "data": "" },
+      { "name": "CTO-1", "data": "" },
+      { "name": "CTO-2", "data": "" },
+      { "name": "CTO-3", "data": "" }
+    ]
+  },
+  {
+    "location": "Miryalaguda",
+    "sites": [
+      { "name": "CTO-5", "data": "" }
+    ]
+  },
+  {
+    "location": "Duvvada",
+    "sites": [
+      { "name": "FTO-7", "data": "" },
+      { "name": "FTO-9", "data": "" }
+    ]
+  },
+  {
+    "location": "Pydi-Bheemavaram",
+    "sites": [
+      { "name": "CTO-6", "data": "" },
+      { "name": "FTO SEZ PU1", "data": "" },
+      { "name": "FTO SEZ PU2", "data": "" },
+      { "name": "CTO SEZ", "data": "" }
+    ]
+  },
+  {
+    "location": "Baddi",
+    "sites": [
+      { "name": "FTO-6", "data": "" },
+      { "name": "FTO-8", "data": "" },
+      { "name": "FTO-12", "data": "" }
+    ]
+  }
+] 
